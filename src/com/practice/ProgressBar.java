@@ -66,6 +66,4 @@ public class ProgressBar {
         String result = "[" + bar.substring(0, move).replace(pb, stat) + sym +  bar.substring(move, bar.length()) + "]" + ststus + "%";
         return result;
     }
-
-
 }
