@@ -6,7 +6,7 @@ public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello World!!");
         System.out.println("Hello Nijat!!");
-        System.out.println("Hello Anna!!");
+        System.out.println("Fawad is the best!!");
 
     }
 }
