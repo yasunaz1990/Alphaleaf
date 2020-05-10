@@ -1,12 +1,22 @@
 package com.practice;
 
-public class HelloWorld {
 
-    // Main method - where CPU executes code
+// Class is collection of
+// Methods
+public class HelloWorld
+{
+    // Main method
     public static void main(String[] args) {
-        System.out.println("Hello World!!");
-        System.out.println("Hello Nijat!!");
-        System.out.println("Fawad is the best!!");
-
+        pauseFor10Seconds();
+        System.out.println("hi");
     }
+
+    public static void pauseFor10Seconds() {
+        try{
+            Thread.sleep(10000);
+        }catch (Exception e) {
+            // do nothing
+        }
+    }
+    
 }

@@ -5,7 +5,8 @@ import java.util.Scanner;
 public class ProgressBar {
 
     // Main method - where CPU executes code
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         // Get user number input
         Integer userInput;
 
@@ -38,7 +39,6 @@ public class ProgressBar {
         }
     }
 
-
     // Helper Method
     // Put execution thread to sleep
     // for 500 milliseconds
@@ -49,7 +49,6 @@ public class ProgressBar {
             // Do Nothing
         }
     }
-
 
     private static String progressBar(long currentPosition) {
         String bar = "";
@@ -66,4 +65,5 @@ public class ProgressBar {
         String result = "[" + bar.substring(0, move).replace(pb, stat) + sym +  bar.substring(move, bar.length()) + "]" + ststus + "%";
         return result;
     }
+
 }
