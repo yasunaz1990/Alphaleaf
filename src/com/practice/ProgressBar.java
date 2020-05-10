@@ -42,6 +42,7 @@ public class ProgressBar {
     // Helper Method
     // Put execution thread to sleep
     // for 500 milliseconds
+    // this will not work for multi-threadding env
     private static void pause(int number) {
         try {
             Thread.sleep(number);
