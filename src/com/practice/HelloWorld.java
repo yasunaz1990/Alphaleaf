@@ -9,6 +9,7 @@ public class HelloWorld
     public static void main(String[] args) {
         pauseFor10Seconds();
         System.out.println("hi");
+        System.out.println("Some modificaitons");
     }
 
     public static void pauseFor10Seconds() {
