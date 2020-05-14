@@ -1,15 +1,20 @@
-package com.practice;
+package lecture0hellojava;
 
 import java.util.Scanner;
 
+
+
+
+// This class contains a simple
+// Terminal progress bar graphic program
+// At line 14, execute it to start using this
+// demo program.  You don't need to understand what is going here.
 public class ProgressBar {
 
     // Main method - where CPU executes code
-    public static void main(String[] args)
-    {
+    public static void main(String[] args) {
         // Get user number input
         Integer userInput;
-
         do{
             System.out.print("\rEnter Progress Bar Limit: ");
             userInput = new Scanner(System.in).nextInt();
