@@ -66,7 +66,7 @@ public class AnnaHW {
        // c++;          //LINE C
 
         //System.out.println("a = " + a + " b = " + b + " c = " + c + " d = " + d);
-        //I do not understand why the answers here...
+        //I do not understand the answers here...
 
         //Code 4 Relational Operators
         int a = 4;
