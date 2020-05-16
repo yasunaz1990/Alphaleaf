@@ -1,6 +1,6 @@
 package com.practice;
 
-public class HelloWorld {
+public class gitHelloWorld {
 
     // Main method - where CPU executes code
     public static void main(String[] args) {
