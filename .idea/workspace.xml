@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6348325-7b21-4159-ad92-cfa2f7813f7a" name="Default Changelist" comment="added" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bVqiz9p7gxL44n0Z9a8FYWkMhv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="bpracticesession" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.KaanHW">
+    <configuration name="BranchingReviews" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="areviews.BranchingReviews" />
+      <module name="Alphaleaf" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KaanHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignment.KaanHW" />
+      <module name="Alphaleaf" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MafuzHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignment.MafuzHW" />
+      <module name="Alphaleaf" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NijatHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignment.NijatHW" />
+      <module name="Alphaleaf" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReviewMay17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="areviews.ReviewMay17" />
+      <module name="Alphaleaf" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SofiaHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignment.SofiaHW" />
+      <module name="Alphaleaf" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.BranchingReviews" />
+      <item itemvalue="Application.ReviewMay17" />
+      <item itemvalue="Application.SofiaHW" />
+      <item itemvalue="Application.MafuzHW" />
+      <item itemvalue="Application.NijatHW" />
+      <item itemvalue="Application.KaanHW" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.KaanHW" />
+        <item itemvalue="Application.NijatHW" />
+        <item itemvalue="Application.ReviewMay17" />
+        <item itemvalue="Application.MafuzHW" />
+        <item itemvalue="Application.SofiaHW" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6348325-7b21-4159-ad92-cfa2f7813f7a" name="Default Changelist" comment="" />
+      <created>1588727739420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588727739420</updated>
+    </task>
+    <task id="LOCAL-00001" summary="added">
+      <created>1589736934646</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589736934646</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added" />
+    <option name="LAST_COMMIT_MESSAGE" value="added" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="339" y="124" key="#Project_Structure" timestamp="1589695134473">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="0" y="3" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1589681970076" />
+    <state x="339" y="124" key="#Project_Structure/1680.23.1920.1011/0.23.1680.1027@0.23.1680.1027" timestamp="1589695134473" />
+    <state x="170" y="230" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589126918890">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="170" y="230" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1589126918890" />
+    <state x="611" y="364" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1589694986455">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="611" y="364" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/1680.23.1920.1011/0.23.1680.1027@0.23.1680.1027" timestamp="1589694986455" />
+    <state x="561" y="347" width="499" height="264" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589695086289">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="561" y="347" width="499" height="264" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1680.23.1920.1011/0.23.1680.1027@0.23.1680.1027" timestamp="1589695086289" />
+    <state width="704" height="224" key="GridCell.Tab.0.bottom" timestamp="1589422510253">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="704" height="224" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1589422510253" />
+    <state width="704" height="224" key="GridCell.Tab.0.center" timestamp="1589422510253">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="704" height="224" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1589422510253" />
+    <state width="704" height="224" key="GridCell.Tab.0.left" timestamp="1589422510253">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="704" height="224" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1589422510253" />
+    <state width="704" height="224" key="GridCell.Tab.0.right" timestamp="1589422510253">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="704" height="224" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1589422510253" />
+    <state width="703" height="271" key="GridCell.Tab.1.bottom" timestamp="1589249706067">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="703" height="271" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1589249706067" />
+    <state width="703" height="271" key="GridCell.Tab.1.center" timestamp="1589249706067">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="703" height="271" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1589249706067" />
+    <state width="703" height="271" key="GridCell.Tab.1.left" timestamp="1589249706067">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="703" height="271" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1589249706067" />
+    <state width="703" height="271" key="GridCell.Tab.1.right" timestamp="1589249706067">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="703" height="271" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1589249706067" />
+    <state x="522" y="139" key="RollbackChangesDialog" timestamp="1589736888453">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state x="522" y="139" key="RollbackChangesDialog/0.23.1680.979@0.23.1680.979" timestamp="1589736888453" />
+    <state x="0" y="89" key="SettingsEditor" timestamp="1588730373628">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="0" y="89" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1588730373628" />
+    <state x="535" y="385" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589736841914">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state x="535" y="385" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.979@0.23.1680.979" timestamp="1589736841914" />
+    <state x="535" y="385" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.980@0.23.1680.980" timestamp="1589735949525" />
+    <state x="0" y="49" width="749" height="758" key="new project wizard" timestamp="1588809523157">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="0" y="49" width="749" height="758" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1588809523157" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1589141140841">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1589141140841" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/assignment/MafuzHW.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
