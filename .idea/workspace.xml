@@ -20,8 +20,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6348325-7b21-4159-ad92-cfa2f7813f7a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Operators/KaanOperatorsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment/KaanHW.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assignment/MafuzHW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignment/MafuzHW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/META-INF/Alphaleaf.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/PracticeMay16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/areviews/BranchingReviews.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/assignment/AnnaHW.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/assignment/JoshHW.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/assignment/NijatHW.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/assignment/SofiaHW.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/bpracticesession/May16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/lecture0hellojava/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/lecture0hellojava/ProgressBar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/lecture1variables/DataTypeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/lecture1variables/VariableDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/lecture1variables/VariableQuiz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/lecture2operators/BooleanOperators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/lecture2operators/NijatOperatosDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/lecture3branching/BranchingDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/lecture3branching/ConditionalAssignmentDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/lecture4loops/LoopDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/operators/MahfuzOperatorsDemo.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,56 +78,64 @@
       <recent name="bpracticesession" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ZoeyHW">
-    <configuration name="DemoZoey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operators.DemoZoey" />
+  <component name="RunManager" selected="Application.KaanHW">
+    <configuration name="BranchingReviews" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="areviews.BranchingReviews" />
       <module name="Alphaleaf" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProgressBar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lecture0hellojava.ProgressBar" />
+    <configuration name="KaanHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignment.KaanHW" />
       <module name="Alphaleaf" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZoeyHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignment.ZoeyHW" />
+    <configuration name="MafuzHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignment.MafuzHW" />
       <module name="Alphaleaf" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zoeyifstatementdemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operators.zoeyifstatementdemo" />
+    <configuration name="NijatHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignment.NijatHW" />
       <module name="Alphaleaf" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zoeyoperatorsdemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operators.zoeyoperatorsdemo" />
+    <configuration name="ReviewMay17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="areviews.ReviewMay17" />
+      <module name="Alphaleaf" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SofiaHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignment.SofiaHW" />
       <module name="Alphaleaf" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DemoZoey" />
-      <item itemvalue="Application.ProgressBar" />
-      <item itemvalue="Application.ZoeyHW" />
-      <item itemvalue="Application.zoeyifstatementdemo" />
-      <item itemvalue="Application.zoeyoperatorsdemo" />
+      <item itemvalue="Application.BranchingReviews" />
+      <item itemvalue="Application.ReviewMay17" />
+      <item itemvalue="Application.SofiaHW" />
+      <item itemvalue="Application.MafuzHW" />
+      <item itemvalue="Application.NijatHW" />
+      <item itemvalue="Application.KaanHW" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ZoeyHW" />
-        <item itemvalue="Application.ProgressBar" />
-        <item itemvalue="Application.DemoZoey" />
-        <item itemvalue="Application.zoeyifstatementdemo" />
-        <item itemvalue="Application.zoeyoperatorsdemo" />
+        <item itemvalue="Application.KaanHW" />
+        <item itemvalue="Application.NijatHW" />
+        <item itemvalue="Application.ReviewMay17" />
+        <item itemvalue="Application.MafuzHW" />
+        <item itemvalue="Application.SofiaHW" />
       </list>
     </recent_temporary>
   </component>
@@ -135,6 +163,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="WindowStateProjectService">
     <state x="339" y="124" key="#Project_Structure" timestamp="1589695134473">
@@ -186,10 +217,19 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="703" height="271" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1589249706067" />
+    <state x="522" y="139" key="RollbackChangesDialog" timestamp="1589736888453">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state x="522" y="139" key="RollbackChangesDialog/0.23.1680.979@0.23.1680.979" timestamp="1589736888453" />
     <state x="0" y="89" key="SettingsEditor" timestamp="1588730373628">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="0" y="89" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1588730373628" />
+    <state x="535" y="385" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589736841914">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state x="535" y="385" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.979@0.23.1680.979" timestamp="1589736841914" />
+    <state x="535" y="385" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.980@0.23.1680.980" timestamp="1589735949525" />
     <state x="0" y="49" width="749" height="758" key="new project wizard" timestamp="1588809523157">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -198,5 +238,16 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1589141140841" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/assignment/MafuzHW.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
