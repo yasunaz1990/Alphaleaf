@@ -20,29 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6348325-7b21-4159-ad92-cfa2f7813f7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/areviews/BranchingReviews.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment/AnnaHW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment/JoshHW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment/NijatHW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment/SofiaHW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment/ZoeyHW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture0hellojava/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture1variables/DataTypeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture1variables/VariableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture1variables/VariableQuiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture2operators/BooleanOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture2operators/NijatOperatosDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture3branching/BranchingDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture3branching/ConditionalAssignmentDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture4loops/LoopDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/ZoeyDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/com/practice/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/com/practice/ProgressBar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/operators/DemoZoey.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/operators/zoeyifstatementdemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/operators/zoeyoperatorsdemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture0hellojava/ProgressBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture0hellojava/ProgressBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/areviews/ReviewMay17.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +38,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bVqiz9p7gxL44n0Z9a8FYWkMhv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -72,6 +51,11 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="bpracticesession" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.ZoeyHW">
     <configuration name="DemoZoey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -109,6 +93,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.DemoZoey" />
+      <item itemvalue="Application.ProgressBar" />
+      <item itemvalue="Application.ZoeyHW" />
+      <item itemvalue="Application.zoeyifstatementdemo" />
+      <item itemvalue="Application.zoeyoperatorsdemo" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.ZoeyHW" />
@@ -118,6 +109,9 @@
         <item itemvalue="Application.zoeyoperatorsdemo" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -134,22 +128,32 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="3" key="#Project_Structure" timestamp="1589681970076">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="339" y="124" key="#Project_Structure" timestamp="1589695134473">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="0" y="3" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1589681970076" />
+    <state x="339" y="124" key="#Project_Structure/1680.23.1920.1011/0.23.1680.1027@0.23.1680.1027" timestamp="1589695134473" />
     <state x="170" y="230" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589126918890">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="170" y="230" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1589126918890" />
+    <state x="611" y="364" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1589694986455">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="611" y="364" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/1680.23.1920.1011/0.23.1680.1027@0.23.1680.1027" timestamp="1589694986455" />
+    <state x="561" y="347" width="499" height="264" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589695086289">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="561" y="347" width="499" height="264" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1680.23.1920.1011/0.23.1680.1027@0.23.1680.1027" timestamp="1589695086289" />
     <state width="704" height="224" key="GridCell.Tab.0.bottom" timestamp="1589422510253">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
