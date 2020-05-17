@@ -137,25 +137,80 @@ public class AnnaHW {
         //}
 
         //Code 10: Chaining if-else statement
-        int marks = 65;
+        //int marks = 65;
 
-        if (marks > 75)      //CONDITION A
+        //if (marks > 75)      //CONDITION A
 
-        {
-            System.out.println("Distinction");
-        } else if (marks > 60)    //CONDITION B
+        //{
+        //System.out.println("Distinction");
+        //} else if (marks > 60)    //CONDITION B
 
-        {
-            System.out.println("First Class");    //LINE B
-        } else if (marks > 50)    //CONDITION C
+        //{
+        //System.out.println("First Class");    //LINE B
+        //} else if (marks > 50)    //CONDITION C
 
-        {
-            System.out.println("Second class");   //LINE C
-        } else {
-            System.out.println("Fail");      //LINE D
+        //{
+        //System.out.println("Second class");   //LINE C
+        //} else {
+        //System.out.println("Fail");      //LINE D
+        //}
+
+        //Code 11: While loop part 1
+        //int x = 1;
+        //while (x <= 5)     //LINE A
+        //{
+        //System.out.println("x = " + x);
+        //x++;
+        //}
+
+        //Code 12: While loop part 2
+        //int input = 5;
+        //int i = 1;
+        //while (i <= input)
+        //{
+        //System.out.println(i);
+        //i++;
+        //}
+
+
+        //Code 12: While loop part 3, counting down
+        //int i = 10;
+        //while (i>1) {
+        //System.out.println(i);
+        //i--;;
+        //}
+
+        //Code 13: While loop part 4
+        //int i = 0;
+        //int z = 10;
+
+        //Loop with two variables.
+        //while (i < z) {
+
+
+            //i++;
+            //z--;
+
+            //Display the values.
+            //System.out.println(i + "/" + z);
+
+        //}
+
+        //Code 14: While loop part 5, usage of infinite loop (empty)
+
+
+        //Code 15: While loop part 6
+        int index = 0;
+        //Use post increment in while-loop expression.
+        while (index++ < 10) {
+
+            //Continue if even number.
+            if ((index % 2) == 0) {
+                continue;
+            }
         }
+        System.out.println("Element: " + index);
+
+        //this problem was confusing.
     }
 }
-
-
-
