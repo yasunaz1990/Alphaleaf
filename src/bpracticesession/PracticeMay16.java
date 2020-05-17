@@ -1,3 +1,5 @@
+package bpracticesession;
+
 import java.util.Arrays;
 
 public class PracticeMay16 {
