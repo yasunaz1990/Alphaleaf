@@ -198,19 +198,6 @@ public class AnnaHW {
 
         //Code 14: While loop part 5, usage of infinite loop (empty)
 
-
-        //Code 15: While loop part 6
-        int index = 0;
-        //Use post increment in while-loop expression.
-        while (index++ < 10) {
-
-            //Continue if even number.
-            if ((index % 2) == 0) {
-                continue;
-            }
-        }
-        System.out.println("Element: " + index);
-
-        //this problem was confusing.
+//d
     }
 }
