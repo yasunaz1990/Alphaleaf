@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22a5a1ca-1ce9-474d-9331-deabbf717e67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/Alphaleaf/com/practice/ProgressBar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Alphaleaf/operators/MelisOperatorsDemo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/assignment/MelisHW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignment/MelisHW.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
