@@ -21,5 +21,8 @@ public class BranchingReviews {
         //               false or true
         boolean result = x < y || x < z;
         System.out.println(result);
+
     }
+
+
 }
