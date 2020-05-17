@@ -124,6 +124,7 @@ public class MafuzHW {
         boolean fits = width <= 10 && height <= 20;
 
         // We can use the boolean, not a complex expression
+
         if (fits && weight <= 150) {
             System.out.println("It fits");
         } else {
@@ -140,5 +141,30 @@ public class MafuzHW {
         {
             System.out.println("Fail");    // LINE C
         }
+
+        //Code 10: Chaining if-else statement
+
+        int marks = 65;
+
+        if ( marks > 75 )   // CONDITION A
+        {
+            System.out.println("Distinction");  //LINE A
+        }
+        else if ( marks > 60 )  // CONDITION B
+        {
+            System.out.println("First Class");  // LINE B
+        }
+        else if ( marks > 50 )  //  CONDITION C
+        {
+            System.out.println("Second Class");    // LINE C
+        }
+        else
+            {
+                System.out.println("Fail");     // LINE D
+        }
+
+        //Code 11: While loop part 1
+
+        int x = 1
     }
 }
