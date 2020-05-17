@@ -1,14 +1,20 @@
-package com.practice;
+package lecture0hellojava;
 
 import java.util.Scanner;
 
+
+
+
+// This class contains a simple
+// Terminal progress bar graphic program
+// At line 14, execute it to start using this
+// demo program.  You don't need to understand what is going here.
 public class ProgressBar {
 
     // Main method - where CPU executes code
     public static void main(String[] args) {
         // Get user number input
         Integer userInput;
-
         do{
             System.out.print("\rEnter Progress Bar Limit: ");
             userInput = new Scanner(System.in).nextInt();
@@ -38,10 +44,10 @@ public class ProgressBar {
         }
     }
 
-
     // Helper Method
     // Put execution thread to sleep
     // for 500 milliseconds
+    // this will not work for multi-threadding env
     private static void pause(int number) {
         try {
             Thread.sleep(number);
@@ -49,7 +55,6 @@ public class ProgressBar {
             // Do Nothing
         }
     }
-
 
     private static String progressBar(long currentPosition) {
         String bar = "";
@@ -66,4 +71,5 @@ public class ProgressBar {
         String result = "[" + bar.substring(0, move).replace(pb, stat) + sym +  bar.substring(move, bar.length()) + "]" + ststus + "%";
         return result;
     }
+
 }
