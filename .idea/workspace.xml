@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6348325-7b21-4159-ad92-cfa2f7813f7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/areviews/ReviewMay17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/areviews/ReviewMay17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/areviews/ReviewMay17.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,14 +50,14 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="bpracticesession" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ZoeyHW">
+  <component name="RunManager" selected="Application.ReviewMay17">
     <configuration name="DemoZoey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="operators.DemoZoey" />
       <module name="Alphaleaf" />
@@ -68,6 +68,19 @@
     <configuration name="ProgressBar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lecture0hellojava.ProgressBar" />
       <module name="Alphaleaf" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReviewMay17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="areviews.ReviewMay17" />
+      <module name="Alphaleaf" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="areviews.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -86,27 +99,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zoeyoperatorsdemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operators.zoeyoperatorsdemo" />
-      <module name="Alphaleaf" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.DemoZoey" />
       <item itemvalue="Application.ProgressBar" />
       <item itemvalue="Application.ZoeyHW" />
       <item itemvalue="Application.zoeyifstatementdemo" />
-      <item itemvalue="Application.zoeyoperatorsdemo" />
+      <item itemvalue="Application.ReviewMay17" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReviewMay17" />
         <item itemvalue="Application.ZoeyHW" />
         <item itemvalue="Application.ProgressBar" />
         <item itemvalue="Application.DemoZoey" />
         <item itemvalue="Application.zoeyifstatementdemo" />
-        <item itemvalue="Application.zoeyoperatorsdemo" />
       </list>
     </recent_temporary>
   </component>
@@ -186,10 +192,11 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="703" height="271" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1589249706067" />
-    <state x="0" y="89" key="SettingsEditor" timestamp="1588730373628">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="1951" y="23" key="SettingsEditor" timestamp="1589731099932">
+      <screen x="1680" y="23" width="1920" height="1057" />
     </state>
     <state x="0" y="89" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1588730373628" />
+    <state x="1951" y="23" key="SettingsEditor/1680.23.1920.1057/0.23.1680.981@1680.23.1920.1057" timestamp="1589731099932" />
     <state x="0" y="49" width="749" height="758" key="new project wizard" timestamp="1588809523157">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
