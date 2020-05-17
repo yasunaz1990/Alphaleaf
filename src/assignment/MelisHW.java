@@ -5,7 +5,7 @@ import jdk.swing.interop.SwingInterOpUtils;
 import java.sql.SQLOutput;
 import java.util.DoubleSummaryStatistics;
 
-public class MelisHW {
+public class:MelisHW {
     public static void main(String[] args) {
 
         //Code 0:
