@@ -20,11 +20,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6348325-7b21-4159-ad92-cfa2f7813f7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/operators/DemoZoey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operators/zoeyifstatementdemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operators/zoeyoperatorsdemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZoeyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZoeyDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/areviews/BranchingReviews.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment/AnnaHW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment/JoshHW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment/NijatHW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment/SofiaHW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment/ZoeyHW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture0hellojava/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture1variables/DataTypeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture1variables/VariableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture1variables/VariableQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture2operators/BooleanOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture2operators/NijatOperatosDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture3branching/BranchingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture3branching/ConditionalAssignmentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture4loops/LoopDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/ZoeyDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/com/practice/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/com/practice/ProgressBar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/operators/DemoZoey.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/operators/zoeyifstatementdemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/operators/zoeyoperatorsdemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture0hellojava/ProgressBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture0hellojava/ProgressBar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +68,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
-  <component name="RunManager" selected="Application.DemoZoey">
+  <component name="RunManager" selected="Application.ZoeyHW">
     <configuration name="DemoZoey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="operators.DemoZoey" />
       <module name="Alphaleaf" />
@@ -60,15 +81,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.HelloWorld" />
+    <configuration name="ProgressBar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture0hellojava.ProgressBar" />
       <module name="Alphaleaf" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZoeyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ZoeyDemo" />
+    <configuration name="ZoeyHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignment.ZoeyHW" />
       <module name="Alphaleaf" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ZoeyHW" />
+        <item itemvalue="Application.ProgressBar" />
         <item itemvalue="Application.DemoZoey" />
         <item itemvalue="Application.zoeyifstatementdemo" />
         <item itemvalue="Application.zoeyoperatorsdemo" />
-        <item itemvalue="Application.ZoeyDemo" />
-        <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -121,6 +142,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="0" y="3" key="#Project_Structure" timestamp="1589681970076">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="0" y="3" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1589681970076" />
     <state x="170" y="230" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589126918890">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
