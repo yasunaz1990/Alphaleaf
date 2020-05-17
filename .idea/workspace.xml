@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6348325-7b21-4159-ad92-cfa2f7813f7a" name="Default Changelist" comment="added" />
+    <list default="true" id="c6348325-7b21-4159-ad92-cfa2f7813f7a" name="Default Changelist" comment="added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment/MafuzHW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignment/MafuzHW.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,9 +47,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
@@ -56,6 +60,13 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.KaanHW">
+    <configuration name="BranchingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture3branching.BranchingDemo" />
+      <module name="Alphaleaf" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BranchingReviews" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="areviews.BranchingReviews" />
       <module name="Alphaleaf" />
@@ -70,15 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MafuzHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignment.MafuzHW" />
-      <module name="Alphaleaf" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NijatHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignment.NijatHW" />
+    <configuration name="NadiaHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignment.NadiaHW" />
       <module name="Alphaleaf" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SofiaHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignment.SofiaHW" />
+    <configuration name="VariableQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture1variables.VariableQuiz" />
       <module name="Alphaleaf" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -100,19 +104,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.BranchingReviews" />
-      <item itemvalue="Application.ReviewMay17" />
-      <item itemvalue="Application.SofiaHW" />
-      <item itemvalue="Application.MafuzHW" />
-      <item itemvalue="Application.NijatHW" />
+      <item itemvalue="Application.BranchingDemo" />
       <item itemvalue="Application.KaanHW" />
+      <item itemvalue="Application.NadiaHW" />
+      <item itemvalue="Application.ReviewMay17" />
+      <item itemvalue="Application.VariableQuiz" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.KaanHW" />
-        <item itemvalue="Application.NijatHW" />
+        <item itemvalue="Application.BranchingDemo" />
+        <item itemvalue="Application.VariableQuiz" />
+        <item itemvalue="Application.NadiaHW" />
         <item itemvalue="Application.ReviewMay17" />
-        <item itemvalue="Application.MafuzHW" />
-        <item itemvalue="Application.SofiaHW" />
       </list>
     </recent_temporary>
   </component>
@@ -207,10 +211,11 @@
       <screen x="0" y="23" width="1680" height="979" />
     </state>
     <state x="522" y="139" key="RollbackChangesDialog/0.23.1680.979@0.23.1680.979" timestamp="1589736888453" />
-    <state x="0" y="89" key="SettingsEditor" timestamp="1588730373628">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="0" y="23" key="SettingsEditor" timestamp="1589744167058">
+      <screen x="0" y="23" width="1680" height="980" />
     </state>
     <state x="0" y="89" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1588730373628" />
+    <state x="0" y="23" key="SettingsEditor/0.23.1680.980@0.23.1680.980" timestamp="1589744167058" />
     <state x="535" y="385" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589736841914">
       <screen x="0" y="23" width="1680" height="979" />
     </state>
@@ -228,10 +233,13 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/assignment/MafuzHW.java</url>
-          <line>37</line>
-          <option name="timeStamp" value="1" />
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/areviews/BranchingReviews.java</url>
+          <line>5</line>
+          <properties class="areviews.BranchingReviews" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

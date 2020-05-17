@@ -38,7 +38,7 @@ public class MafuzHW {
         d = f;
 
         System.out.println("b = " + b );
-        System.out.println("s = " + s )
+        System.out.println("s = " + s );
         System.out.println("i = " + i );
         System.out.println("l = l" + l );
         System.out.println("d = " + d );
@@ -169,7 +169,7 @@ public class MafuzHW {
         while ( x <= 5 ) // LINE A
         {
             System.out.println("x = " + x);
-            x++
+            x++;
         }
 
         // Code 12 While loop part 2
@@ -215,7 +215,7 @@ public class MafuzHW {
         while (index++ < 10) {
 
             // Continue if even number
-            if ((index % 2)) == {
+            if ((index % 2)> 0)  {
                 continue;
             }
             System.out.println("Element: " + index);
