@@ -156,7 +156,7 @@ public class SofiaHW {
         int i =i;
         while(i <= input) {
             System.out.println(i);
-            i++
+            i++;
         }
 
         //Code 12: While loop part 3, countind down
