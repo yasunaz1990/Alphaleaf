@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6348325-7b21-4159-ad92-cfa2f7813f7a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/areviews/BranchingReviews.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment/AnnaHW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment/JoshHW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment/NijatHW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment/SofiaHW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assignment/ZoeyHW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture0hellojava/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture1variables/DataTypeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture1variables/VariableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture1variables/VariableQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture2operators/BooleanOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture2operators/NijatOperatosDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture3branching/BranchingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture3branching/ConditionalAssignmentDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture4loops/LoopDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/ZoeyDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/com/practice/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/com/practice/ProgressBar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/operators/DemoZoey.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/operators/zoeyifstatementdemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/operators/zoeyoperatorsdemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture0hellojava/ProgressBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture0hellojava/ProgressBar.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bVqiz9p7gxL44n0Z9a8FYWkMhv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RunManager" selected="Application.ZoeyHW">
+    <configuration name="DemoZoey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operators.DemoZoey" />
+      <module name="Alphaleaf" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgressBar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture0hellojava.ProgressBar" />
+      <module name="Alphaleaf" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZoeyHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignment.ZoeyHW" />
+      <module name="Alphaleaf" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zoeyifstatementdemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operators.zoeyifstatementdemo" />
+      <module name="Alphaleaf" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zoeyoperatorsdemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operators.zoeyoperatorsdemo" />
+      <module name="Alphaleaf" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ZoeyHW" />
+        <item itemvalue="Application.ProgressBar" />
+        <item itemvalue="Application.DemoZoey" />
+        <item itemvalue="Application.zoeyifstatementdemo" />
+        <item itemvalue="Application.zoeyoperatorsdemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6348325-7b21-4159-ad92-cfa2f7813f7a" name="Default Changelist" comment="" />
+      <created>1588727739420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588727739420</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="3" key="#Project_Structure" timestamp="1589681970076">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="0" y="3" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1589681970076" />
+    <state x="170" y="230" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589126918890">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="170" y="230" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1589126918890" />
+    <state width="704" height="224" key="GridCell.Tab.0.bottom" timestamp="1589422510253">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="704" height="224" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1589422510253" />
+    <state width="704" height="224" key="GridCell.Tab.0.center" timestamp="1589422510253">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="704" height="224" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1589422510253" />
+    <state width="704" height="224" key="GridCell.Tab.0.left" timestamp="1589422510253">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="704" height="224" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1589422510253" />
+    <state width="704" height="224" key="GridCell.Tab.0.right" timestamp="1589422510253">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="704" height="224" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1589422510253" />
+    <state width="703" height="271" key="GridCell.Tab.1.bottom" timestamp="1589249706067">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="703" height="271" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1589249706067" />
+    <state width="703" height="271" key="GridCell.Tab.1.center" timestamp="1589249706067">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="703" height="271" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1589249706067" />
+    <state width="703" height="271" key="GridCell.Tab.1.left" timestamp="1589249706067">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="703" height="271" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1589249706067" />
+    <state width="703" height="271" key="GridCell.Tab.1.right" timestamp="1589249706067">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="703" height="271" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1589249706067" />
+    <state x="0" y="89" key="SettingsEditor" timestamp="1588730373628">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="0" y="89" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1588730373628" />
+    <state x="0" y="49" width="749" height="758" key="new project wizard" timestamp="1588809523157">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="0" y="49" width="749" height="758" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1588809523157" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1589141140841">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1589141140841" />
+  </component>
+</project>

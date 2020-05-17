@@ -1,15 +1,13 @@
 package assignment;
 
-import javax.sql.rowset.serial.SQLOutputImpl;
-import java.sql.SQLOutput;
+public class EbonyHW {
 
-public class SofiaHW {
     public static void main(String[] args) {
-        System.out.println ("Print line");
-        System.out.print ("A");
-        System.out.print ("B");
-        System.out.println ();
-        System.out.println ("C");
+        System.out.println("Print line");
+        System.out.print("A");
+        System.out.print("B");
+        System.out.println();
+        System.out.println("C");
 
         //Print ints directly, no conversion needed.
         int value = 10;
@@ -26,8 +24,8 @@ public class SofiaHW {
         i = s; //LINE B
         l = i; //LINE C
 
-        float  f = 25.0f;
-        double d =327.98;
+        float f = 25.0f;
+        double d = 327.98;
 
         f = i;
         d = f;
@@ -60,18 +58,18 @@ public class SofiaHW {
         c = ++b; // LINE A
         d = a++; //LINE B
         c++; //LINE C
-        System.out.println("a = " +  a + " b =" + b + " c = " + c + " d = " + d);
+        System.out.println("a = " + a + " b =" + b + " c = " + c + " d = " + d);
 
         //Code 4: Relational Operators
         int a = 4;
         int b = 1;
-        boolean x = ( a > b);
-        boolean y = ( a <= b);
-        boolean z = ( a == b);
+        boolean x = (a > b);
+        boolean y = (a <= b);
+        boolean z = (a == b);
 
-        System.out.println( " The statement - a greater than b -  is" + x);
-        System.out.println( " The statement - a is less than or equal to b - is" + y);
-        System.out.println( " The statement - a is equal to b - is" + z);
+        System.out.println(" The statement - a greater than b -  is" + x);
+        System.out.println(" The statement - a is less than or equal to b - is" + y);
+        System.out.println(" The statement - a is equal to b - is" + z);
 
         //Code 5: Conditional Assignment
         int marks = 50;
@@ -86,7 +84,7 @@ public class SofiaHW {
 
         //Code 6: If statement with boolean expression part 1
         int c = 0, d = 100, e = 50; //LINE A
-        if( c == 1 && e++ < 100) {
+        if (c == 1 && e++ < 100) {
             d = 150;
         }
         System.out.println("e = " + e);
@@ -109,43 +107,39 @@ public class SofiaHW {
         boolean fits = width <= 10 && height <= 20;
 
         //We can use the boolean, not a complex expression.
-        if(fits && weight <= 150) {
+        if (fits && weight <= 150) {
             System.out.println("It fits");
         } else {
             System.out.println("Does not fit");
         }
         //Code 9: If-else statement
         int marks = 62;
-        if(marks > 35)       //LINE A
+        if (marks > 35)       //LINE A
         {
             System.out.println("Pass");       //LINE B
-        }
-        else {
+        } else {
             System.out.println("Fail");       //LINE C
         }
 
         //Code 10: Chaining if-else statement
         int marks = 65;
 
-        if( marks > 75 )   //CONDITION A
+        if (marks > 75)   //CONDITION A
         {
             System.out.println("Distinction"); //LINE A
-        }
-        else if (marks > 60)  // CONDITION B
+        } else if (marks > 60)  // CONDITION B
         {
             System.out.println("First Class");  //LINE B
-        }
-        else if ( marks > 50 )   // CONDITION C
+        } else if (marks > 50)   // CONDITION C
         {
             System.out.println("Second Class");    //LINE C
-        }
-        else {
+        } else {
             System.out.println("Fail");   //LINE D
         }
 
         //Code 11: While loop part 1
         int x = 1;
-        while( x <= 5) // LINE A
+        while (x <= 5) // LINE A
         {
             System.out.println("x = " + x);
             x++;
@@ -153,16 +147,15 @@ public class SofiaHW {
 
         //Code 12: While loop part 2
         int input = 5;
-        int i = 1;
-        while(i <= input)
-        {
+        int i = i;
+        while (i <= input) {
             System.out.println(i);
-            i++;
+            i++
         }
 
-        //Code 12: While loop part 3, counting down
-        int i=10;
-        while(i>1) {
+        //Code 12: While loop part 3, countind down
+        int i = 10;
+        while (i > 1) {
             System.out.println(i);
             i--;
         }
@@ -193,8 +186,6 @@ public class SofiaHW {
             }
             System.out.println("Element: " + index);
         }
-            }
+    }
 
-
-        }
-
+}
