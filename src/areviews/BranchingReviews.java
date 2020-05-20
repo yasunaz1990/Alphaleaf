@@ -18,17 +18,11 @@ public class BranchingReviews {
         int y = 7;
         int z = 28;
 
-
-
-
-
         //               false or true
         boolean result = x < y || x < z;
         System.out.println(result);
 
-
-
-
-
     }
+
+
 }

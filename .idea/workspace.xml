@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a7dc233-0879-4c8d-a536-1f67db56d7dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assignment/m.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/m.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment/MerveHW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignment/MerveHW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture4loops/LoopDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture4loops/LoopDemo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bgvDEUSPKjrvzfHkgQGY524ZOM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.m">
+    <configuration name="JoshHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignment.JoshHW" />
+      <module name="Alphaleaf" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MerveHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignment.MerveHW" />
+      <module name="Alphaleaf" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MerveOperatorsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operators.MerveOperatorsDemo" />
+      <module name="Alphaleaf" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SofiaHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignment.SofiaHW" />
+      <module name="Alphaleaf" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="m" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m" />
+      <module name="Alphaleaf" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.m" />
+        <item itemvalue="Application.MerveHW" />
+        <item itemvalue="Application.JoshHW" />
+        <item itemvalue="Application.SofiaHW" />
+        <item itemvalue="Application.MerveOperatorsDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a7dc233-0879-4c8d-a536-1f67db56d7dd" name="Default Changelist" comment="" />
+      <created>1589066429747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589066429747</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="367" y="163" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589240640889">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="367" y="163" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.720@0.0.1280.720" timestamp="1589240640889" />
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1589077071616">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.1.1920.1040@0.0.1280.680" timestamp="1589077071616" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1589077071616">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680/-1920.1.1920.1040@0.0.1280.680" timestamp="1589077071616" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1589077071616">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680/-1920.1.1920.1040@0.0.1280.680" timestamp="1589077071616" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1589077071616">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680/-1920.1.1920.1040@0.0.1280.680" timestamp="1589077071616" />
+    <state x="428" y="63" key="RollbackChangesDialog" timestamp="1589335636918">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="428" y="63" key="RollbackChangesDialog/0.0.1280.720@0.0.1280.720" timestamp="1589335636918" />
+    <state x="251" y="49" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589668125040">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="251" y="49" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.720@0.0.1280.720" timestamp="1589668125040" />
+    <state x="450" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589673371068">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="450" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720@0.0.1280.720" timestamp="1589673371068" />
+    <state x="762" y="419" width="670" height="678" key="search.everywhere.popup" timestamp="1589668932162">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="762" y="419" width="670" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1589668932162" />
+  </component>
+</project>

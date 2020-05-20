@@ -153,13 +153,14 @@ public class SofiaHW {
 
         //Code 12: While loop part 2
         int input = 5;
-        int i =i;
-        while(i <= input) {
+        int i = 1;
+        while(i <= input)
+        {
             System.out.println(i);
             i++;
         }
 
-        //Code 12: While loop part 3, countind down
+        //Code 12: While loop part 3, counting down
         int i=10;
         while(i>1) {
             System.out.println(i);

@@ -1,10 +1,10 @@
 package assignment;
 
-public class JoshHW {
+public class ZoeyHW {
 
     public static void main(String[] args) {
 
-        //Code 0
+        //Code 0: print () and println() to the terminal display
         System.out.println("Print line");
         System.out.print("A");
         System.out.print("B");
@@ -16,7 +16,7 @@ public class JoshHW {
         System.out.println(value);
         System.out.println(value * 10);
 
-        //Code 1
+        //Code 1: Variable Creation, Data Assignments, Printing to the screen
 
         byte b = 50;
         short s = 4125;
@@ -40,22 +40,22 @@ public class JoshHW {
         System.out.println("d = " + d);
         System.out.println("f = " + f);
 
-        //Code 2
+        //Code 2: Arithmetic Operators, Print to the screen
 
         int x = 5;
         int y = 2;
         int z = 3;
 
-        x += 6;  //  LINE A
-        y *= 8;  //  LINE B
-        z += y * x;  //  LINE C
-        z %= 7;  //  LINE D
+        x += 6;        //  LINE A
+        y *= 8;        //  LINE B
+        z += y * x;    //  LINE C
+        z %= 7;        //  LINE D
 
         System.out.println("x =" + x);
         System.out.println("y = " + y);
         System.out.println("z = " + z);
 
-        //Code 3
+        //Code 3: Pre and Post Increment
 
         int a = 5;
         int b = 2;
@@ -66,7 +66,7 @@ public class JoshHW {
         c++;  //  LINE C
         System.out.println("a = " + a + " b = " + b + " c = " + c + " d = " + d);
 
-        //Code 4
+        //Code 4: Relational Operators
 
         int a = 4;
         int b = 1;
@@ -78,7 +78,7 @@ public class JoshHW {
         System.out.println(" The statement - a is less than or equal to b - is " + y);
         System.out.println(" The statement - a is equal to b - is " + z);
 
-        //Code 5
+        //Code 5: Conditonal Assignment
 
         int marks = 50;
         int bonus = marks > 60 ? 5 : 2;
@@ -90,7 +90,7 @@ public class JoshHW {
         System.out.println("Total Marks = " + total_marks);
         System.out.println("Grade = " + grade);
 
-        //Code 6
+        //Code 6: If statement with boolean expression part 1
 
         int c = 0, d = 100, e = 50;  //  LINE A
         if (c == 1 && e++ < 100) {
@@ -98,7 +98,7 @@ public class JoshHW {
         }
         System.out.println("e = " + e);
 
-        //Code 7
+        //Code 7: If statement with boolean expression part 2
 
         boolean vacant = true;
         boolean occupied = false;
@@ -108,7 +108,7 @@ public class JoshHW {
             System.out.println(true);
         }
 
-        // Code 8
+        // Code 8: If statement with boolean expression part 3
 
         int width = 10;
         int height = 15;
@@ -124,7 +124,7 @@ public class JoshHW {
             System.out.println("Does not fit");
         }
 
-        // Code 9
+        // Code 9: If-else staement
 
         int marks = 62;
         if (marks > 35)             // LINE A
@@ -134,7 +134,7 @@ public class JoshHW {
             System.out.println("Fail");     // LINE C
         }
 
-        // Code 10
+        // Code 10: Chaining if-else statement
 
         int marks = 65;
 
@@ -151,7 +151,7 @@ public class JoshHW {
             System.out.println("Fail");     // LINE D
         }
 
-        // Code 11
+        // Code 11: While loop part 1
 
         int x = 1;
         while (x <= 5)    // LINE A
@@ -160,7 +160,7 @@ public class JoshHW {
             x++;
         }
 
-        // Code 12
+        // Code 12: While loop part 2
 
         int input = 5;
         int i = 1;
@@ -170,13 +170,16 @@ public class JoshHW {
             i++;
 
         }
+
+        //Code 12: While loop part 3, counting down
+
         int i = 10;
         while (i > 1) {
             System.out.println(i);
             i--;
         }
 
-        // Code 13
+        // Code 13: While loop part 4
 
         int i = 0;
         int z = 10;
@@ -190,10 +193,10 @@ public class JoshHW {
             System.out.println(i + "/" + z);
         }
 
-        // Code 14
+        // Code 14: While loop part 5, usage of infinite loop
 
 
-        // Code 15
+        // Code 15: While loop part 6
 
         int index = 0;
         // Use post increment in while-loop expression
@@ -203,6 +206,6 @@ public class JoshHW {
             if ((index % 2) == 0) {
                 continue; }
             System.out.println("Element:" + index);}
-        }
     }
+
 }
