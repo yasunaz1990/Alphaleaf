@@ -4,9 +4,6 @@ public class Zoeypractice {
 
     public static void main(String[] args) {
 
-
-        char[] familyChores = {'Zoey', 'Moe', 'Sanari', 'Kyrie', 'Boosie'}
-
-
+        System.out.println("HI!");
     }
 }
