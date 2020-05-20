@@ -20,29 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6348325-7b21-4159-ad92-cfa2f7813f7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/areviews/BranchingReviews.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment/AnnaHW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment/JoshHW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment/NijatHW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment/SofiaHW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignment/ZoeyHW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture0hellojava/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture1variables/DataTypeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture1variables/VariableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture1variables/VariableQuiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture2operators/BooleanOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture2operators/NijatOperatosDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture3branching/BranchingDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture3branching/ConditionalAssignmentDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture4loops/LoopDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lecture4loops/Zoeypractice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/ZoeyDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/com/practice/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/com/practice/ProgressBar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/operators/DemoZoey.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/operators/zoeyifstatementdemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/operators/zoeyoperatorsdemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture0hellojava/ProgressBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture0hellojava/ProgressBar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture4loops/LoopDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture4loops/LoopDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +53,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
-  <component name="RunManager" selected="Application.ZoeyHW">
+  <component name="RunManager" selected="Application.Zoeypractice">
     <configuration name="DemoZoey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="operators.DemoZoey" />
       <module name="Alphaleaf" />
@@ -95,6 +75,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Zoeypractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture4loops.Zoeypractice" />
+      <module name="Alphaleaf" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="zoeyifstatementdemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="operators.zoeyifstatementdemo" />
       <module name="Alphaleaf" />
@@ -102,20 +89,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zoeyoperatorsdemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operators.zoeyoperatorsdemo" />
-      <module name="Alphaleaf" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zoeypractice" />
         <item itemvalue="Application.ZoeyHW" />
         <item itemvalue="Application.ProgressBar" />
         <item itemvalue="Application.DemoZoey" />
         <item itemvalue="Application.zoeyifstatementdemo" />
-        <item itemvalue="Application.zoeyoperatorsdemo" />
       </list>
     </recent_temporary>
   </component>
@@ -182,6 +162,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="703" height="271" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1589249706067" />
+    <state x="526" y="153" key="RollbackChangesDialog" timestamp="1589728511272">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="526" y="153" key="RollbackChangesDialog/0.0.1536.864@0.0.1536.864" timestamp="1589728511272" />
     <state x="0" y="89" key="SettingsEditor" timestamp="1588730373628">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
