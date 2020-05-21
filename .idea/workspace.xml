@@ -20,10 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a7dc233-0879-4c8d-a536-1f67db56d7dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assignment/m.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/m.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assignment/MerveHW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignment/MerveHW.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture4loops/LoopDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture4loops/LoopDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_13_2020_7_02_PM_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_13_2020_7_02_PM__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment/JoshHW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignment/JoshHW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment/KaanHW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignment/KaanHW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment/MafuzHW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignment/MafuzHW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment/NadiaHW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignment/NadiaHW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment/SofiaHW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignment/SofiaHW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment/ZoeyHW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignment/ZoeyHW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment/m.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/assignment/m.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +56,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.m">
+  <component name="RunManager" selected="Application.KaanHW">
     <configuration name="JoshHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="assignment.JoshHW" />
       <module name="Alphaleaf" />
@@ -58,15 +64,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MerveHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignment.MerveHW" />
+    <configuration name="KaanHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignment.KaanHW" />
       <module name="Alphaleaf" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MerveOperatorsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operators.MerveOperatorsDemo" />
+    <configuration name="MelisOperatorsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operators.MelisOperatorsDemo" />
       <module name="Alphaleaf" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.m" />
-        <item itemvalue="Application.MerveHW" />
-        <item itemvalue="Application.JoshHW" />
+        <item itemvalue="Application.KaanHW" />
         <item itemvalue="Application.SofiaHW" />
-        <item itemvalue="Application.MerveOperatorsDemo" />
+        <item itemvalue="Application.JoshHW" />
+        <item itemvalue="Application.MelisOperatorsDemo" />
+        <item itemvalue="Application.m" />
       </list>
     </recent_temporary>
   </component>

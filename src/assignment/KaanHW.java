@@ -3,6 +3,10 @@ package assignment;
 public class KaanHW {
     public static void main(String[] args) {
 
+        int [] mySemesterGrades = {99, 80, 78, 80, 22};
+
+
+
 //        //Code o
 //        System.out.println("Print line");
 //        System.out.print("A");

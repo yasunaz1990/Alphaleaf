@@ -1,9 +1,0 @@
-Index: src/operators/MerveOperatorsDemo.java
-IDEA additional info:
-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
-<+>UTF-8
-===================================================================
---- src/operators/MerveOperatorsDemo.java	(date 1589335635267)
-+++ src/operators/MerveOperatorsDemo.java	(date 1589335635267)
-@@ -0,0 +1,1 @@
-+
