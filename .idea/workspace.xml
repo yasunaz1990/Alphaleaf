@@ -20,24 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29601924-9a0f-44f6-a100-968f50078166" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lecture4loops/ZoeyPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/Luis_Homework/Homework.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/Luis_Homework/examples.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/com/practice/HelloWorld.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/com/practice/ProgressBar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assignment/AnnaHW.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assignment/EbonyHW.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assignment/JoshHW.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assignment/KaanHW.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assignment/MafuzHW.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assignment/MelisHW.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assignment/NadiaHW.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assignment/NijatHW.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assignment/SofiaHW.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assignment/ZoeyHW.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lecture4loops/LoopDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture4loops/LoopDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture4loops/Zoeypractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture4loops/ZoeyPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture4loops/ZoeyPractice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
