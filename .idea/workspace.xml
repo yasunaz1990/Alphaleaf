@@ -20,13 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29601924-9a0f-44f6-a100-968f50078166" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/Alphaleaf/areviews/BranchingReviews.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Alphaleaf/areviews/ReviewMay17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Alphaleaf/bpracticesession/PracticeMay16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Alphaleaf/lecture0hellojava/HelloWorld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Alphaleaf/lecture0hellojava/ProgressBar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Alphaleaf/lecture1variables/DataTypeDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Alphaleaf/lecture1variables/VariableDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Alphaleaf/lecture1variables/VariableQuiz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Alphaleaf/lecture2operators/BooleanOperators.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Alphaleaf/lecture2operators/NijatOperatosDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Alphaleaf/lecture3branching/BranchingDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Alphaleaf/lecture3branching/ConditionalAssignmentDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Alphaleaf/lecture4loops/ZoeyPractice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Alphaleaf/operators/KaanOperatorsDemo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/Luis_Homework/Homework.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/Luis_Homework/examples.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/com/practice/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Alphaleaf/com/practice/ProgressBar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture4loops/LoopDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture4loops/LoopDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lecture4loops/ZoeyPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture4loops/ZoeyPractice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
