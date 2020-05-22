@@ -20,20 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29601924-9a0f-44f6-a100-968f50078166" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/Alphaleaf/areviews/BranchingReviews.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Alphaleaf/areviews/ReviewMay17.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Alphaleaf/bpracticesession/PracticeMay16.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Alphaleaf/lecture0hellojava/HelloWorld.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Alphaleaf/lecture0hellojava/ProgressBar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Alphaleaf/lecture1variables/DataTypeDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Alphaleaf/lecture1variables/VariableDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Alphaleaf/lecture1variables/VariableQuiz.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Alphaleaf/lecture2operators/BooleanOperators.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Alphaleaf/lecture2operators/NijatOperatosDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Alphaleaf/lecture3branching/BranchingDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Alphaleaf/lecture3branching/ConditionalAssignmentDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Alphaleaf/lecture4loops/ZoeyPractice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Alphaleaf/operators/KaanOperatorsDemo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,22 +91,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="788" height="223" key="GridCell.Tab.0.bottom" timestamp="1590174894079">
+    <state width="788" height="223" key="GridCell.Tab.0.bottom" timestamp="1590176816783">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="788" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1590174894079" />
-    <state width="788" height="223" key="GridCell.Tab.0.center" timestamp="1590174894079">
+    <state width="788" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1590176816783" />
+    <state width="788" height="223" key="GridCell.Tab.0.center" timestamp="1590176816783">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="788" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1590174894079" />
-    <state width="788" height="223" key="GridCell.Tab.0.left" timestamp="1590174894079">
+    <state width="788" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1590176816783" />
+    <state width="788" height="223" key="GridCell.Tab.0.left" timestamp="1590176816783">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="788" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1590174894079" />
-    <state width="788" height="223" key="GridCell.Tab.0.right" timestamp="1590174894079">
+    <state width="788" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1590176816783" />
+    <state width="788" height="223" key="GridCell.Tab.0.right" timestamp="1590176816783">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="788" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1590174894079" />
+    <state width="788" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1590176816783" />
     <state x="75" y="183" width="672" height="678" key="search.everywhere.popup" timestamp="1590020043584">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
