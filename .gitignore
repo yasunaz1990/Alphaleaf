@@ -1,0 +1,8 @@
+out/
+.idea/
+*.xml
+*.iml
+*.class
+src/.DS_Store
+
+

@@ -5,28 +5,42 @@ public class LoopDemo {
     // main method where CPU reads
     public static void main(String[] args) {
 
-        // Looping
-        //  1. While loop
-        //  2. Do-While loop
-        //  3. For loop
+        // While loop part 2
+        // -------------------------------
+        // starting from 1
+        // counting up to the value in second variable
+        int input = 5;
+        int i = 1;
 
-        // while loop
-        // repeatedly executes a block of code as long as
-        // the "condition" is TRUE
-
-
-        // compute the larges power of 2
-        // less than or equal to the n
-
-        // get the sum of numbers 32 to 1000
-        // 32 + 33 + 34 +........999 + 1000
-        int sum = 0;
-        for(int i = 32; i <= 1000; i++) {
-            sum += i;
+        while(i <= input) {
+            System.out.println(i);
+            i++;
         }
 
-        System.out.println(sum);
+
+        // While loop part 3
+        // -------------------------------
+        // starting from 10, count down
+        int n = 10;
+        while(n > 1) {
+            // System.out.println(n);
+            n--;
+        }
 
 
+        // While loop part 5, usage of infinite loop
+        // --------------------------------
+        while(true) {
+
+            // Get a random number between 0 and 1
+            double randValue = Math.random();
+            System.out.println(randValue);
+
+            // breaks the loop, if randValue is greater
+            // than 0.8
+            if(randValue >= 0.8) {
+                break;
+            }
+        }
     }
 }

@@ -4,12 +4,11 @@ public class ReviewMay17 {
 
     // CPU executes code here
     public static void main(String[] args) {
-        System.out.println("Print line");
-        System.out.println("A");
-        System.out.println("B");
-        System.out.println();
-        System.out.println("C");
-
+//
+        int x = 1;
+        while( x <= 5) {
+            System.out.println("x content: " + x );
+            x++;
+        }
     }
 }
-
