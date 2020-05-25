@@ -19,6 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="10643bee-0730-4f60-8a5e-5e79301d5ff7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_13_2020_7_02_PM_[Default_Changelist]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_13_2020_7_02_PM__Default_Changelist_.xml" beforeDir="false" />
@@ -27,27 +28,83 @@
       <change beforePath="$PROJECT_DIR$/src/assignment/m.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lecture2operators/BooleanOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture2operators/BooleanOperators.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lecture4loops/ZoeyPractice.java" beforeDir="false" />
+=======
+    <list default="true" id="1a7dc233-0879-4c8d-a536-1f67db56d7dd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> 4da48debd20b6e443dbd6ba0ba902beb8fee3863
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1cHEieAkRQQYOPzHKc2P4AUOVVy" />
+=======
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bgvDEUSPKjrvzfHkgQGY524ZOM" />
+>>>>>>> 4da48debd20b6e443dbd6ba0ba902beb8fee3863
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="BooleanOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lecture2operators.BooleanOperators" />
+=======
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.KaanHW">
+    <configuration name="JoshHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignment.JoshHW" />
+      <module name="Alphaleaf" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KaanHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignment.KaanHW" />
+      <module name="Alphaleaf" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MelisOperatorsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operators.MelisOperatorsDemo" />
+      <module name="Alphaleaf" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SofiaHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assignment.SofiaHW" />
+      <module name="Alphaleaf" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="m" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m" />
+>>>>>>> 4da48debd20b6e443dbd6ba0ba902beb8fee3863
       <module name="Alphaleaf" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -55,17 +112,33 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.BooleanOperators" />
+=======
+        <item itemvalue="Application.KaanHW" />
+        <item itemvalue="Application.SofiaHW" />
+        <item itemvalue="Application.JoshHW" />
+        <item itemvalue="Application.MelisOperatorsDemo" />
+        <item itemvalue="Application.m" />
+>>>>>>> 4da48debd20b6e443dbd6ba0ba902beb8fee3863
       </list>
     </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="10643bee-0730-4f60-8a5e-5e79301d5ff7" name="Default Changelist" comment="" />
       <created>1590177246583</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590177246583</updated>
+=======
+      <changelist id="1a7dc233-0879-4c8d-a536-1f67db56d7dd" name="Default Changelist" comment="" />
+      <created>1589066429747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589066429747</updated>
+>>>>>>> 4da48debd20b6e443dbd6ba0ba902beb8fee3863
     </task>
     <servers />
   </component>
@@ -81,6 +154,7 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="WindowStateProjectService">
     <state width="1515" height="164" key="GridCell.Tab.0.bottom" timestamp="1590374281673">
       <screen x="0" y="0" width="1536" height="864" />
@@ -118,5 +192,75 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="184" y="101" key="RollbackChangesDialog/0.0.1536.864@0.0.1536.864" timestamp="1590335823361" />
+=======
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="695" y="362" key="#Notifications" timestamp="1590212086906">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="695" y="362" key="#Notifications/1680.23.1920.997/0.23.1680.1027@0.23.1680.1027" timestamp="1590212086906" />
+    <state x="0" y="23" width="1200" height="1027" key="#Plugins" timestamp="1590212091345">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="0" y="23" width="1200" height="1027" key="#Plugins/1680.23.1920.997/0.23.1680.1027@0.23.1680.1027" timestamp="1590212091345" />
+    <state x="367" y="163" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589240640889">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="367" y="163" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.720@0.0.1280.720" timestamp="1589240640889" />
+    <state width="1579" height="203" key="GridCell.Tab.0.bottom" timestamp="1590034253801">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.1.1920.1040@0.0.1280.680" timestamp="1589077071616" />
+    <state width="1579" height="203" key="GridCell.Tab.0.bottom/0.23.1680.976@0.23.1680.976" timestamp="1590034253801" />
+    <state width="1579" height="203" key="GridCell.Tab.0.center" timestamp="1590034253801">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680/-1920.1.1920.1040@0.0.1280.680" timestamp="1589077071616" />
+    <state width="1579" height="203" key="GridCell.Tab.0.center/0.23.1680.976@0.23.1680.976" timestamp="1590034253801" />
+    <state width="1579" height="203" key="GridCell.Tab.0.left" timestamp="1590034253801">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680/-1920.1.1920.1040@0.0.1280.680" timestamp="1589077071616" />
+    <state width="1579" height="203" key="GridCell.Tab.0.left/0.23.1680.976@0.23.1680.976" timestamp="1590034253801" />
+    <state width="1579" height="203" key="GridCell.Tab.0.right" timestamp="1590034253801">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680/-1920.1.1920.1040@0.0.1280.680" timestamp="1589077071616" />
+    <state width="1579" height="203" key="GridCell.Tab.0.right/0.23.1680.976@0.23.1680.976" timestamp="1590034253801" />
+    <state width="1579" height="203" key="GridCell.Tab.1.bottom" timestamp="1590034253802">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state width="1579" height="203" key="GridCell.Tab.1.bottom/0.23.1680.976@0.23.1680.976" timestamp="1590034253802" />
+    <state width="1579" height="203" key="GridCell.Tab.1.center" timestamp="1590034253802">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state width="1579" height="203" key="GridCell.Tab.1.center/0.23.1680.976@0.23.1680.976" timestamp="1590034253802" />
+    <state width="1579" height="203" key="GridCell.Tab.1.left" timestamp="1590034253802">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state width="1579" height="203" key="GridCell.Tab.1.left/0.23.1680.976@0.23.1680.976" timestamp="1590034253802" />
+    <state width="1579" height="203" key="GridCell.Tab.1.right" timestamp="1590034253802">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state width="1579" height="203" key="GridCell.Tab.1.right/0.23.1680.976@0.23.1680.976" timestamp="1590034253802" />
+    <state x="428" y="63" key="RollbackChangesDialog" timestamp="1589335636918">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="428" y="63" key="RollbackChangesDialog/0.0.1280.720@0.0.1280.720" timestamp="1589335636918" />
+    <state x="251" y="49" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589668125040">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="251" y="49" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.720@0.0.1280.720" timestamp="1589668125040" />
+    <state x="450" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589673371068">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="450" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720@0.0.1280.720" timestamp="1589673371068" />
+    <state x="762" y="419" width="670" height="678" key="search.everywhere.popup" timestamp="1589668932162">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="762" y="419" width="670" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1589668932162" />
+>>>>>>> 4da48debd20b6e443dbd6ba0ba902beb8fee3863
   </component>
 </project>
