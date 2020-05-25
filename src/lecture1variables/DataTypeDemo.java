@@ -16,8 +16,8 @@ public class DataTypeDemo {
         //
         //  These data are represented with following data types in Java
         // --------------------------------------------------
-        // Whole Numbers    :   integer
-        // Fraction Numbers :   double
+        // Whole Numbers    :   int      others including ( byte, short, long )
+        // Fraction Numbers :   double   others including ( float )
         // Logic            :   boolean
         // Characters       :   char
         // Text             :   String

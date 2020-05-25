@@ -6,7 +6,7 @@ public class VariableQuiz {
     public static void main(String[] args) {
 
         int myVar;
-//        System.out.println(myVar);
+//        System.out.println(myVar);          // This is error, content of myVar is empty
 
         myVar = 50;
         System.out.println(myVar);             // <----- 50
