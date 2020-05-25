@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="10643bee-0730-4f60-8a5e-5e79301d5ff7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_13_2020_7_02_PM__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_13_2020_7_02_PM__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_13_2020_7_02_PM_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_13_2020_7_02_PM__Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment/MerveHW.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment/m.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture2operators/BooleanOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lecture2operators/BooleanOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lecture4loops/ZoeyPractice.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,10 +36,87 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectId" id="1cHEieAkRQQYOPzHKc2P4AUOVVy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BooleanOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lecture2operators.BooleanOperators" />
+      <module name="Alphaleaf" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BooleanOperators" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10643bee-0730-4f60-8a5e-5e79301d5ff7" name="Default Changelist" comment="" />
+      <created>1590177246583</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590177246583</updated>
+    </task>
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1515" height="164" key="GridCell.Tab.0.bottom" timestamp="1590374281673">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="164" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1590374281673" />
+    <state width="1515" height="164" key="GridCell.Tab.0.center" timestamp="1590374281672">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="164" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1590374281672" />
+    <state width="1515" height="164" key="GridCell.Tab.0.left" timestamp="1590374281671">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="164" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1590374281671" />
+    <state width="1515" height="164" key="GridCell.Tab.0.right" timestamp="1590374281672">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="164" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1590374281672" />
+    <state width="790" height="205" key="GridCell.Tab.1.bottom" timestamp="1590254317603">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="790" height="205" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1590254317603" />
+    <state width="790" height="205" key="GridCell.Tab.1.center" timestamp="1590254317603">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="790" height="205" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1590254317603" />
+    <state width="790" height="205" key="GridCell.Tab.1.left" timestamp="1590254317603">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="790" height="205" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1590254317603" />
+    <state width="790" height="205" key="GridCell.Tab.1.right" timestamp="1590254317603">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="790" height="205" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1590254317603" />
+    <state x="184" y="101" key="RollbackChangesDialog" timestamp="1590335823361">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="184" y="101" key="RollbackChangesDialog/0.0.1536.864@0.0.1536.864" timestamp="1590335823361" />
   </component>
 </project>
