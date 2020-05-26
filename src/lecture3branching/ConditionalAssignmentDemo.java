@@ -16,10 +16,5 @@ public class ConditionalAssignmentDemo {
         double studentsPerRoom = (roomsWeHave == 0)? 0.0 : students/roomsWeHave;
         System.out.println(studentsPerRoom);
 
-
-
-
-
-
     }
 }

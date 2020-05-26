@@ -6,7 +6,6 @@ public class ArrayTechniques {
 
     public static void main(String[] args) {
 
-
         //1. Create an array with random value
         int[] randNums = new int[10];
         int size = randNums.length;  //or just int size = 10;
@@ -14,18 +13,13 @@ public class ArrayTechniques {
         for(int idx = 0; idx < size; idx++) {
             randNums[idx] = (int)( Math.random()*100 );
         }
-
         System.out.println(Arrays.toString(randNums));
-
 
 
         //2. Print the content of an array
         for(int idx = 0; idx < randNums.length; idx++) {
             System.out.print( randNums[idx] + "  ");
         }
-
-
-
 
         //3. Find the max value inside of an array
         int max = 0;
@@ -37,8 +31,6 @@ public class ArrayTechniques {
         System.out.println("Max Number: " + max);
 
 
-
-
         //4. Compute the average of the values in array
         double sum = 0;
         for(int idx = 0; idx < randNums.length; idx++) {
@@ -46,8 +38,6 @@ public class ArrayTechniques {
         }
         double avg = sum / randNums.length;
         System.out.println("Average value: " + avg);
-
-
 
 
         //5. Reverse the content of an array
@@ -60,12 +50,6 @@ public class ArrayTechniques {
         }
 
         System.out.println(Arrays.toString(randNums));
-
-
-        // 6. Finding specific element in the array
-
-
-
 
     }
 }

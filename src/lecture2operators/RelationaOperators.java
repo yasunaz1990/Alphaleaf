@@ -1,10 +1,11 @@
 package lecture2operators;
 
-public class NijatOperatosDemo {
+public class RelationaOperators {
 
     public static void main(String[] args) {
 
-        // Numerical Data Types ( integer, double )
+        // Numerical Data Types ( integer, double ) has another operator that
+        // compares two numerical data and give us boolean data as a result of operations
         // Relational Operators
         //     >        greater than
         //     >=       greater than or equal to
@@ -12,7 +13,6 @@ public class NijatOperatosDemo {
         //     <=       less than or equal to
         //     ==       equal to
         //     !=       not equal
-
         //    5 < 10 ===> true,false
         //    5 + 10 ===> 15
 
@@ -36,8 +36,5 @@ public class NijatOperatosDemo {
         else {
             System.out.println("Summer vacation is the best");
         }
-
-
-
     }
 }
